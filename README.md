@@ -67,5 +67,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# pokeapi1
+
+## Screen Short of pokeapi
+<img width="1280" alt="Screenshot 2024-03-27 at 11 50 23 AM" src="https://github.com/Ravi29102004/pokeapi/assets/153702531/d88dca84-14a1-4b03-b4e0-f372c027803a">
+<img width="1280" alt="Screenshot 2024-03-27 at 11 49 17 AM" src="https://github.com/Ravi29102004/pokeapi/assets/153702531/71f8b122-0e16-4675-8927-8d39ed0f5307">
+
+<img width="1280" alt="Screenshot 2024-03-27 at 11 49 47 AM" src="https://github.com/Ravi29102004/pokeapi/assets/153702531/15d1b9a7-0878-47b8-b740-ed34a3163e10">
